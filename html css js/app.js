@@ -873,7 +873,7 @@ function renderCheckoutStep() {
 }
 
 // número WhatsApp do restaurante (só dígitos, com DDI)
-const RESTAURANT_WHATSAPP = "1799680298";
+const RESTAURANT_WHATSAPP = "17992680298";
 
 let deliveryMode = "delivery";
 let customerData = {};
